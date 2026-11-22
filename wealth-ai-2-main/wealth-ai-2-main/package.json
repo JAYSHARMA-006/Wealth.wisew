@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "check": "node --check src/main.js && node --check src/login.js",
+    "serve": "python3 -m http.server 5173"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
